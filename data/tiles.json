@@ -1,0 +1,302 @@
+{
+  "2015": {
+    "sensor": "Landsat 8 (9 scene)",
+    "scenes": 9,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/0a38de78f3f2f0bd7b568ee133682dd0-4bf1816abaf55111640cfb74538beeeb/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/0f3502f7ca21cb548bc2ac7655dc4aff-4521098102acd8a3de691b6bd5b88af9/tiles/{z}/{x}/{y}",
+    "veg_percent": 99.93,
+    "classes": {
+      "non_veg": {
+        "pct": 0.0,
+        "area_km2": 0.0
+      },
+      "jarang": {
+        "pct": 0.13,
+        "area_km2": 0.034
+      },
+      "sedang": {
+        "pct": 1.5,
+        "area_km2": 0.382
+      },
+      "rapat": {
+        "pct": 98.3,
+        "area_km2": 25.037
+      }
+    }
+  },
+  "2016": {
+    "sensor": "Sentinel-2 (1 scene)",
+    "scenes": 1,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/adb2015ad315bf5f2725da711651c6bd-ec914a172dcc374f42c28be39a6f81e9/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/a4dc892e8993153f4c4c520d5849545f-f04c7a8324b69792526cb8657160810e/tiles/{z}/{x}/{y}",
+    "veg_percent": 84.51,
+    "classes": {
+      "non_veg": {
+        "pct": 15.5,
+        "area_km2": 3.947
+      },
+      "jarang": {
+        "pct": 6.79,
+        "area_km2": 1.728
+      },
+      "sedang": {
+        "pct": 5.1,
+        "area_km2": 1.299
+      },
+      "rapat": {
+        "pct": 72.62,
+        "area_km2": 18.496
+      }
+    }
+  },
+  "2017": {
+    "sensor": "Sentinel-2 (1 scene)",
+    "scenes": 1,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/3ece74d2e5c2eb59377ad22b1cef2c34-fb69a9ff8aa3a03aea6f6e9b587e5c85/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/8917092c9c084abed31ff2f6555475ed-9e9367a408b996c421ebf354a4edaa10/tiles/{z}/{x}/{y}",
+    "veg_percent": 99.96,
+    "classes": {
+      "non_veg": {
+        "pct": 0.03,
+        "area_km2": 0.009
+      },
+      "jarang": {
+        "pct": 0.37,
+        "area_km2": 0.095
+      },
+      "sedang": {
+        "pct": 0.96,
+        "area_km2": 0.246
+      },
+      "rapat": {
+        "pct": 98.63,
+        "area_km2": 25.12
+      }
+    }
+  },
+  "2018": {
+    "sensor": "Landsat 8 (8 scene)",
+    "scenes": 8,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/e0562e0f899adcfd292eb34e60e49778-46fb6d0329ac46fe18a4eb5f6d35dce6/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/0559f5f84422e161f3248c673e9d3693-bec8db7011af11657f0aae8a2b85e67e/tiles/{z}/{x}/{y}",
+    "veg_percent": 99.29,
+    "classes": {
+      "non_veg": {
+        "pct": 0.64,
+        "area_km2": 0.163
+      },
+      "jarang": {
+        "pct": 2.91,
+        "area_km2": 0.741
+      },
+      "sedang": {
+        "pct": 4.45,
+        "area_km2": 1.134
+      },
+      "rapat": {
+        "pct": 91.93,
+        "area_km2": 23.414
+      }
+    }
+  },
+  "2019": {
+    "sensor": "Sentinel-2 (24 scene)",
+    "scenes": 24,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/3aeea99f9bc68669f988e68d950d9d11-ab60d72f1b817421c6c54d1ac15d9c6b/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/176e43d551fa69a9b3be07b5f6042ce1-48679557961fad9043518e5378659fb4/tiles/{z}/{x}/{y}",
+    "veg_percent": 99.85,
+    "classes": {
+      "non_veg": {
+        "pct": 0.15,
+        "area_km2": 0.038
+      },
+      "jarang": {
+        "pct": 0.62,
+        "area_km2": 0.158
+      },
+      "sedang": {
+        "pct": 2.21,
+        "area_km2": 0.563
+      },
+      "rapat": {
+        "pct": 97.02,
+        "area_km2": 24.711
+      }
+    }
+  },
+  "2020": {
+    "sensor": "Sentinel-2 (21 scene)",
+    "scenes": 21,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/8cda45d978c144f3ece16bb93a106dfe-7dcbb4c1341c875bf2812c0dcee55986/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/ab0431a9717ac1c487dfb365676b9b6b-95b9ae29701b485756801ea4cfb0518b/tiles/{z}/{x}/{y}",
+    "veg_percent": 99.93,
+    "classes": {
+      "non_veg": {
+        "pct": 0.06,
+        "area_km2": 0.016
+      },
+      "jarang": {
+        "pct": 0.4,
+        "area_km2": 0.103
+      },
+      "sedang": {
+        "pct": 1.66,
+        "area_km2": 0.424
+      },
+      "rapat": {
+        "pct": 97.87,
+        "area_km2": 24.926
+      }
+    }
+  },
+  "2021": {
+    "sensor": "Sentinel-2 (14 scene)",
+    "scenes": 14,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/42324013c97a16df4161ada41b1d0c1c-070fc01f56960bddffcd629f76813b60/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/741bf56b9f9d368c17f2a5be02fdc82e-bdfbb016c24d696727350449ff48b646/tiles/{z}/{x}/{y}",
+    "veg_percent": 98.79,
+    "classes": {
+      "non_veg": {
+        "pct": 1.2,
+        "area_km2": 0.306
+      },
+      "jarang": {
+        "pct": 4.6,
+        "area_km2": 1.172
+      },
+      "sedang": {
+        "pct": 7.2,
+        "area_km2": 1.835
+      },
+      "rapat": {
+        "pct": 86.99,
+        "area_km2": 22.157
+      }
+    }
+  },
+  "2022": {
+    "sensor": "Sentinel-2 (14 scene)",
+    "scenes": 14,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/75e73b9d7692c12d60bf70a7a484d712-d9caf43dd7e280c4a43a8b6b0e19c555/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/931f576f526e5bf4ce9a721b35e5700a-3e41fc7ec6b030d65cfb0c4f89b9794d/tiles/{z}/{x}/{y}",
+    "veg_percent": 99.95,
+    "classes": {
+      "non_veg": {
+        "pct": 0.04,
+        "area_km2": 0.011
+      },
+      "jarang": {
+        "pct": 0.27,
+        "area_km2": 0.07
+      },
+      "sedang": {
+        "pct": 0.93,
+        "area_km2": 0.236
+      },
+      "rapat": {
+        "pct": 98.75,
+        "area_km2": 25.153
+      }
+    }
+  },
+  "2023": {
+    "sensor": "Sentinel-2 (10 scene)",
+    "scenes": 10,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/7a08e8a668fae631081d6f73b325c07a-a3916c44407cd0ba678735887fd72b8f/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/13545770cbc9fd0a4a0bf9ca6a30b485-35785f251a461043b327b9d18735679e/tiles/{z}/{x}/{y}",
+    "veg_percent": 99.88,
+    "classes": {
+      "non_veg": {
+        "pct": 0.11,
+        "area_km2": 0.028
+      },
+      "jarang": {
+        "pct": 0.5,
+        "area_km2": 0.128
+      },
+      "sedang": {
+        "pct": 1.78,
+        "area_km2": 0.454
+      },
+      "rapat": {
+        "pct": 97.6,
+        "area_km2": 24.859
+      }
+    }
+  },
+  "2024": {
+    "sensor": "Sentinel-2 (7 scene)",
+    "scenes": 7,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/f1a3f758c7f5a3c5355808569b163275-ac463e86213364efe74f9ca17ddca399/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/5446ddf163f7e039c862a639132f4612-9c1b9e61992a4e029df6edcf23752ab1/tiles/{z}/{x}/{y}",
+    "veg_percent": 99.05,
+    "classes": {
+      "non_veg": {
+        "pct": 0.95,
+        "area_km2": 0.242
+      },
+      "jarang": {
+        "pct": 2.14,
+        "area_km2": 0.546
+      },
+      "sedang": {
+        "pct": 2.81,
+        "area_km2": 0.715
+      },
+      "rapat": {
+        "pct": 94.1,
+        "area_km2": 23.967
+      }
+    }
+  },
+  "2025": {
+    "sensor": "Sentinel-2 (15 scene)",
+    "scenes": 15,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/da7f58df29881f63cdf18fcfc66ad288-1b7b2267e22e774f1b08c30938e2d28a/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/76bc648570a87289b83c98ab43e59e19-9ad30388988843a440632ab391269635/tiles/{z}/{x}/{y}",
+    "veg_percent": 98.84,
+    "classes": {
+      "non_veg": {
+        "pct": 1.15,
+        "area_km2": 0.293
+      },
+      "jarang": {
+        "pct": 2.27,
+        "area_km2": 0.579
+      },
+      "sedang": {
+        "pct": 4.46,
+        "area_km2": 1.136
+      },
+      "rapat": {
+        "pct": 92.11,
+        "area_km2": 23.461
+      }
+    }
+  },
+  "2026": {
+    "sensor": "Sentinel-2 (18 scene)",
+    "scenes": 18,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/1e4de5eab7686341bb6b1688dad25de0-15b5562af5a0c10e6296a148f2ed6a3f/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/21c7ac335917d544c8da172d989d4e14-e26813290ee7502c04034216babcc2f5/tiles/{z}/{x}/{y}",
+    "veg_percent": 99.56,
+    "classes": {
+      "non_veg": {
+        "pct": 0.44,
+        "area_km2": 0.113
+      },
+      "jarang": {
+        "pct": 0.57,
+        "area_km2": 0.146
+      },
+      "sedang": {
+        "pct": 1.55,
+        "area_km2": 0.394
+      },
+      "rapat": {
+        "pct": 97.44,
+        "area_km2": 24.817
+      }
+    }
+  }
+}

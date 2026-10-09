@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+.env
+*.sbn
+*.sbx
+*.shp.xml
+webgis_screenshot*.png
+webgis_v*.png
+webgis_compare*.png
+webgis_cls*.png

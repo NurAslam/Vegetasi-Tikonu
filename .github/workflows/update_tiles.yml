@@ -1,0 +1,44 @@
+name: Refresh GEE Tiles
+
+on:
+  schedule:
+    # Setiap Senin jam 02:00 UTC (09:00 WIB)
+    - cron: '0 2 * * 1'
+  workflow_dispatch: # bisa trigger manual dari GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install earthengine-api pyshp
+
+      - name: Write GEE credentials
+        run: |
+          mkdir -p ~/.config/earthengine
+          echo '${{ secrets.EE_CREDENTIALS }}' > ~/.config/earthengine/credentials
+
+      - name: Generate tile URLs
+        run: python scripts/generate_tiles.py
+
+      - name: Rebuild index.html with fresh tiles
+        run: python scripts/build_html.py
+
+      - name: Commit & push updated files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/tiles.json index.html
+          git diff --staged --quiet || git commit -m "chore: refresh GEE tile URLs $(date -u +%Y-%m-%d)"
+          git push
