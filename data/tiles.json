@@ -2,8 +2,8 @@
   "2015": {
     "sensor": "Landsat 8 (9 scene)",
     "scenes": 9,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/b56ee4236624a04527dbc394f156f37e-14f5739681a192091262c2397a19dc63/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/ab08e9935568349f0581c65586a8f320-ecc4a5785df5f3fd91b828119974443e/tiles/{z}/{x}/{y}",
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/988d045d599b54eb021443d7595fcad0-f25b07d071272b5f03a87db610007ad6/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/dae028ec39adc36764a72503af6bdc35-1e68096ca684fa619fa2048715860e98/tiles/{z}/{x}/{y}",
     "veg_percent": 99.93,
     "classes": {
       "non_veg": {
@@ -27,8 +27,8 @@
   "2016": {
     "sensor": "Sentinel-2 (1 scene)",
     "scenes": 1,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/992931b75b793850b26f387a7658c8c8-d64fce7959ff8be78045b5c4ba552370/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/d6be3c0c08102343c5d9bb794f4155e3-6e36da2feea4fd9f2503d77587763775/tiles/{z}/{x}/{y}",
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/bae494ef2e3a8155ca109f849990f8de-c245d9fed99ba78ee3aaf26626d604aa/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/1df388a8a830175f3a9e496d608e2b32-80689a6caaeb8f4624fbcffacc332c4a/tiles/{z}/{x}/{y}",
     "veg_percent": 84.51,
     "classes": {
       "non_veg": {
@@ -52,8 +52,8 @@
   "2017": {
     "sensor": "Sentinel-2 (1 scene)",
     "scenes": 1,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/8f31c9b207e6bd46ea15762ca50e23dd-c724b8ed2107c7bf563fa83a586c8984/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/ee6dc03c2eca0c9900a612c026252afa-ebe6a148b83e8194611f65fe1eefdcb7/tiles/{z}/{x}/{y}",
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/e8070d67fcf29e42bac4b87057a73316-6a7a5ca0f1727e5e82db76f37b820a57/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/38c8b78c8fd09808d34c038651f4f173-40125c76e7765c5075bacd9b7bfaaa0d/tiles/{z}/{x}/{y}",
     "veg_percent": 99.96,
     "classes": {
       "non_veg": {
@@ -77,8 +77,8 @@
   "2018": {
     "sensor": "Landsat 8 (8 scene)",
     "scenes": 8,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/4ca957383d54ee317490b61728ca4d46-8ca61873f0fc767c3385e40e5616e602/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/d534b5251de985f63b0fd7f0ed1a0432-e74207e5b50b50344dfae1927b959562/tiles/{z}/{x}/{y}",
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/819da90cc9574dc3304fbd915d904633-74047447a296aaf2686fbcbb3f2f3b88/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/d2483930ad731cd829c88a036ad2eb39-a5425e9c18f100bbc99a237fbd970402/tiles/{z}/{x}/{y}",
     "veg_percent": 99.29,
     "classes": {
       "non_veg": {
@@ -102,8 +102,8 @@
   "2019": {
     "sensor": "Sentinel-2 (24 scene)",
     "scenes": 24,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/778186a137dfad31b993bf8ab39b265f-5fdbdd4a10ddf5d23099475293f5f4e3/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/c38e7ff10936b103b576659125f3c753-f49916c379b168e17546dde28d516b9c/tiles/{z}/{x}/{y}",
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/dc9d5eebe621d263991c8887247e0f31-accf0178779c531f0a049433dd164a84/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/95c37921589ea9021df7fc8732aec0e2-621388939b7c97ad2ad73c09a3ffef3c/tiles/{z}/{x}/{y}",
     "veg_percent": 99.85,
     "classes": {
       "non_veg": {
@@ -127,8 +127,8 @@
   "2020": {
     "sensor": "Sentinel-2 (21 scene)",
     "scenes": 21,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/73d93b36620ec3e17df423425e82f856-d100002052b60053e763806a237ee571/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/220b97e62862c2d570d3893b323dbbf5-2de630f5c0d667bd57342a64f7d69312/tiles/{z}/{x}/{y}",
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/4cbbecbdfe8a6e497611cf8f6daadd1f-3d0dda61af58a328580a7baf0c5e759f/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/8ace1629be99af963e9aea6075429457-d565fb4d1855cf0bcb3e24ae5ba46dc5/tiles/{z}/{x}/{y}",
     "veg_percent": 99.93,
     "classes": {
       "non_veg": {
@@ -152,8 +152,8 @@
   "2021": {
     "sensor": "Sentinel-2 (14 scene)",
     "scenes": 14,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/dbd21a8dd31a7ad56c49f1ac02961b6d-bdb49da83fdaaf95e8994c64e33850d1/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/8eda66e65ac91d01766d07471bf257b9-c4f8eaa77d7660b01ae182cb2b826109/tiles/{z}/{x}/{y}",
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/13b296dded0e51b0c2ea06cdb2fdaed2-27c9439687657861a3ca034cdfbb8cf6/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/b9b457c8c0988bc2c8cea2f82a4ddcfb-f0cd1194c7c8a68ef0faa3f5625e1dca/tiles/{z}/{x}/{y}",
     "veg_percent": 98.79,
     "classes": {
       "non_veg": {
@@ -177,8 +177,8 @@
   "2022": {
     "sensor": "Sentinel-2 (14 scene)",
     "scenes": 14,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/dd2931b118979cf7a4b198fd83c7eca1-55f972e44dd5ecb9e341a6230049a05c/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/ec565a656d1342640a4e0e8dacca2d13-2aa6a27eef2188267d6363ca76f85083/tiles/{z}/{x}/{y}",
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/82ca8fad617ac14434b994423076b098-cc95fd2c4254639e299e9589f0583508/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/a7534f4e0fbf8de2c2a997c257e5626b-442034c32194efba3e824548ac53ef51/tiles/{z}/{x}/{y}",
     "veg_percent": 99.95,
     "classes": {
       "non_veg": {
@@ -202,8 +202,8 @@
   "2023": {
     "sensor": "Sentinel-2 (10 scene)",
     "scenes": 10,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/d0ee0f155ca76dfd20ac58474565370c-66d7524e481e9bcb86b7aa417492de83/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/72fd190c182b041db14784e02ae347ae-e1d83e76daaf07e628f6ab8eeb01e9e7/tiles/{z}/{x}/{y}",
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/3661fd2ec940bd3006fe27465812793d-2b860e35d4761534e069318c0fc718b6/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/84ef1ee077e6c899b9fa8490889235ad-5b8e7c0a6e3d1847e7c13704503c5ed0/tiles/{z}/{x}/{y}",
     "veg_percent": 99.88,
     "classes": {
       "non_veg": {
@@ -227,8 +227,8 @@
   "2024": {
     "sensor": "Sentinel-2 (7 scene)",
     "scenes": 7,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/1a31800f726cea030e06c20009def630-923b128597e10a6c4125a25e97beed91/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/938210ea6acb07e9f2b823a7b5f17be3-d698de5f750df2a2d894fb2bcdec2631/tiles/{z}/{x}/{y}",
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/8656a4fac11054b5d557a3dcd830a089-2930bb085c645c6006a2226820031568/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/010125f031ff80392c329f4894154f42-fb46943f537fbf6a0cdf89270ec20ff6/tiles/{z}/{x}/{y}",
     "veg_percent": 99.05,
     "classes": {
       "non_veg": {
@@ -252,8 +252,8 @@
   "2025": {
     "sensor": "Sentinel-2 (15 scene)",
     "scenes": 15,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/6171d7415b060c704720b6761cdb348e-348baf10a8b447ccde04963aa594cdc8/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/405946b99d821c0810f7b15b845727b7-3454230010c5d233a27b5c6f7e5b7dbf/tiles/{z}/{x}/{y}",
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/42fd315be6cde29c1042c6391adad131-b3f7265f0a147c444ed050720b5997e6/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/8ea973c0671dd41c458da45c829528c2-e5b2648b4fa43cba902961e59986fe1d/tiles/{z}/{x}/{y}",
     "veg_percent": 98.84,
     "classes": {
       "non_veg": {
@@ -275,27 +275,27 @@
     }
   },
   "2026": {
-    "sensor": "Sentinel-2 (22 scene)",
-    "scenes": 22,
-    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/c4b9e76e85cdff6b57f977f31d04f21a-6f2459e6fb618803ad45ee2ad97854cb/tiles/{z}/{x}/{y}",
-    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/f85dd16e30d26eed356a4459f205ced0-963987e169f83e95484b3004b3e7945f/tiles/{z}/{x}/{y}",
-    "veg_percent": 99.53,
+    "sensor": "Sentinel-2 (23 scene)",
+    "scenes": 23,
+    "tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/0b83e00ff9985615a1e3fda7ac9c8c8a-4bb5bf684158d924706f402c7df007f7/tiles/{z}/{x}/{y}",
+    "cls_tile_url": "https://earthengine.googleapis.com/v1/projects/testing-460608/maps/61323d42f4e964205cf9e2df2ed5e68e-3dca73ef7b2f9bc6689d0dd5dbd59ec0/tiles/{z}/{x}/{y}",
+    "veg_percent": 99.54,
     "classes": {
       "non_veg": {
         "pct": 0.47,
-        "area_km2": 0.119
+        "area_km2": 0.12
       },
       "jarang": {
-        "pct": 0.63,
-        "area_km2": 0.161
+        "pct": 0.64,
+        "area_km2": 0.162
       },
       "sedang": {
-        "pct": 1.88,
-        "area_km2": 0.48
+        "pct": 1.97,
+        "area_km2": 0.501
       },
       "rapat": {
-        "pct": 97.02,
-        "area_km2": 24.71
+        "pct": 96.93,
+        "area_km2": 24.687
       }
     }
   }
